@@ -1,0 +1,2 @@
+# Coffee-OrthoFinder-Trinotate-GO-Enrichment-Pipeline
+This repository provides a reproducible bioinformatics pipeline for:  Protein functional annotation using DIAMOND and HMMER (Pfam)  Trinotate-based annotation (protein-only mode)  OrthoFinder orthogroup functional summarization  Identification of coffee-specific orthogroups and unassigned genes  GO enrichment analysis using hypergeometric testing
