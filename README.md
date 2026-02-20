@@ -136,12 +136,11 @@ R:
 
 ## Recommended Execution Order
 
-1. 1a_run_family_annotation.sh
-2. 1b_annotate_orthogroups_from_hits.py
-3. 2_coffee_unique_sets.pl
-4. 0_run_trinotate.sh
+1. 0_run_trinotate.sh
+2. 1a_run_family_annotation.sh
+3. 1b_annotate_orthogroups_from_hits.py
+4. 2_coffee_unique_sets.pl
 5. 3_GO_enrichment_assay.pl
-
 ---
 
 ## License
